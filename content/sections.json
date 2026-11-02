@@ -1,0 +1,15 @@
+[
+  {"id": "start-here", "group": "Getting started", "title": "Start here: your machine & safety", "file": "start-here.md", "blurb": "Identify your model, safety rules, first power-up."},
+  {"id": "anatomy", "group": "Getting started", "title": "Anatomy & controls", "file": "anatomy.md", "blurb": "Every major part and lever, and what it does."},
+  {"id": "speed-chart", "group": "Getting started", "title": "Speed chart", "file": "speed-chart.md", "blurb": "Speed dial settings for each operation."},
+  {"id": "table-saw", "group": "Five modes", "title": "Table saw", "file": "table-saw.md", "blurb": "Ripping, crosscutting, guards, fence."},
+  {"id": "disc-sander", "group": "Five modes", "title": "Disc sander", "file": "disc-sander.md", "blurb": "Mounting the disc, sanding to a line."},
+  {"id": "horizontal-boring", "group": "Five modes", "title": "Horizontal boring", "file": "horizontal-boring.md", "blurb": "Edge drilling and doweling."},
+  {"id": "drill-press", "group": "Five modes", "title": "Drill press", "file": "drill-press.md", "blurb": "Raising the headstock, drilling setup."},
+  {"id": "lathe", "group": "Five modes", "title": "Lathe", "file": "lathe.md", "blurb": "Spindle and faceplate turning."},
+  {"id": "spt-basics", "group": "Special-purpose tools", "title": "SPT basics (power take-off)", "file": "spt-basics.md", "blurb": "How add-on tools mount and are driven."},
+  {"id": "planer", "group": "Special-purpose tools", "title": "Planer", "file": "planer.md", "blurb": "Mounting, thickness planing, knives."},
+  {"id": "belt-sander", "group": "Special-purpose tools", "title": "Belt sander", "file": "belt-sander.md", "blurb": "Mounting, tracking, belt changes."},
+  {"id": "alignment", "group": "Care", "title": "Alignment & maintenance", "file": "alignment.md", "blurb": "Keep it accurate: checks and intervals."},
+  {"id": "accessories", "group": "Care", "title": "Accessories & hardware", "file": "accessories.md", "blurb": "Common accessories and loose parts."}
+]

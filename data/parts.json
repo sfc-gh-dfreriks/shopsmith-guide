@@ -1,0 +1,1926 @@
+[
+ {
+  "id": "headstock",
+  "name": "Headstock",
+  "part_numbers": [
+   "516903"
+  ],
+  "category": "machine-component",
+  "visual": "The large cast-metal power unit that rides on the way tubes, roughly the size of a small suitcase, with the round speed dial and power switch on top and the quill/main spindle sticking out of its right side. A removable belt cover with two small auxiliary spindles is on its left end, and a logo cover is on the back.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Slides on both way tubes and is clamped in place with the headstock lock underneath. Strip it down to headstock and carriage before mounting the planer.",
+  "use": "Supplies power to every mode. Slide it along the tubes to set the distance to the table, tailstock or mounted accessory.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.24",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.6",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "way-tubes",
+  "name": "Way Tubes",
+  "part_numbers": [
+   "501193"
+  ],
+  "category": "machine-component",
+  "visual": "Two long, parallel polished steel tubes forming the upper rails of the machine. The headstock and carriage slide on them, and they show bright steel where the castings ride.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "One end is pinned in the pivoting base; the other end is held together by the way tube tie bar, which rests in the headrest in horizontal mode.",
+  "use": "Rails for headstock and carriage. The thickness planer also clamps directly onto them. Keep them clean and lightly waxed.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.23",
+   "MARK V 520S Owner's Manual p.89",
+   "MKVSTDPartsList _1_14.pdf p.5",
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.2"
+  ]
+ },
+ {
+  "id": "bench-tubes",
+  "name": "Bench Tubes",
+  "part_numbers": [
+   "504163"
+  ],
+  "category": "machine-component",
+  "visual": "Two lower horizontal steel tubes running between the two leg castings, below and parallel to the way tubes. They have no sliding parts on them.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Clamped between the left and right legs to form the rigid floor stand.",
+  "use": "Hold the Mark V rigid. The lift assist's lower mount clamps to the back bench tube.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.23",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "legs",
+  "name": "Legs",
+  "part_numbers": [
+   "50416201"
+  ],
+  "category": "machine-component",
+  "visual": "Pair of cast-metal legs, one at each end of the machine, each splayed into an A-like stance with feet at the bottom. The bench tubes join them.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Bolted to the bench tubes. The right end carries the pivot base and the left end carries the headrest.",
+  "use": "Support the machine on the floor (caster brackets are optional).",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.23",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "base",
+  "name": "Base (pivot end)",
+  "part_numbers": [
+   "518379",
+   "504144"
+  ],
+  "category": "machine-component",
+  "visual": "A heavy casting at the right end of the machine where the way tubes are pinned so they can swing up to vertical. It includes a base arm and a lock, and the base mount sockets are at this end.",
+  "used_in": [
+   "drill-press",
+   "general"
+  ],
+  "mount": "Bolted to the right leg, with the way tubes pinned to it.",
+  "use": "Lets the way tubes pivot from horizontal to vertical (drill press mode).",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.23",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "base-lock",
+  "name": "Base Lock",
+  "part_numbers": [
+   "518381"
+  ],
+  "category": "control",
+  "visual": "A lock handle at the pivoting base that clamps the way tubes once they are raised vertical. It works together with the base arm.",
+  "used_in": [
+   "drill-press"
+  ],
+  "mount": "Part of the base assembly at the right end.",
+  "use": "Secures the Mark V in the vertical drill-press position. Lock it after raising the machine.",
+  "guide_section": "drill-press",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.55",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "headrest",
+  "name": "Headrest and Headrest (Horizontal) Lock",
+  "part_numbers": [
+   "517768",
+   "504148",
+   "5041569"
+  ],
+  "category": "machine-component",
+  "visual": "A cast cradle on top of the left leg with a lock handle. When horizontal, the way tube tie bar sits in it. The power mount tube holes are at this end.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Bolted on the left leg. The tie bar drops into it, and the handle locks it.",
+  "use": "Holds the free end of the way tubes and locks the machine horizontal. Secure it before running a major accessory.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.23",
+   "MARK V 520S Owner's Manual p.55",
+   "MKVSTDPartsList _1_14.pdf p.5",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "way-tube-tie-bar",
+  "name": "Way Tube Tie Bar",
+  "part_numbers": [
+   "50426401"
+  ],
+  "category": "machine-component",
+  "visual": "A cast bar clamping the left ends of both way tubes together. It is the part that drops into the headrest cradle.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Bolted across the ends of the two way tubes.",
+  "use": "Keeps the way tubes parallel and locks into the headrest.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "power-mount",
+  "name": "Power Mount",
+  "part_numbers": [],
+  "category": "machine-component",
+  "visual": "A pair of round mounting holes at the left (headrest) end of the machine, each with an accessory mount lock. Accessories with two parallel steel mounting tubes plug into it. It is a feature of the machine frame, not a loose part.",
+  "used_in": [
+   "planer",
+   "belt-sander",
+   "general"
+  ],
+  "mount": "Built into the left end of the machine. Insert the accessory's two mounting tubes and tighten the accessory mount locks.",
+  "use": "Holds the extension table and major accessories such as the bandsaw, jointer, belt sander, scroll saw and strip sander. Power comes from the headstock's auxiliary spindles through a coupling. The owner's manual also lists the planer, but the planer instructions clamp it directly onto the way tubes.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.55",
+   "MARK V 520S Owner's Manual p.57",
+   "Shopsmith Mark 5 Catalog.pdf p.13"
+  ]
+ },
+ {
+  "id": "base-mount",
+  "name": "Base Mount",
+  "part_numbers": [],
+  "category": "machine-component",
+  "visual": "A pair of mounting holes with lock knobs at the right (base) end of the machine, matching the power mount spacing.",
+  "used_in": [
+   "lathe",
+   "horizontal-boring",
+   "general"
+  ],
+  "mount": "Built into the right end. Insert the accessory tubes and tighten the mount locks.",
+  "use": "Holds the extension table or the lathe tailstock.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.57",
+   "MARK V 520S Owner's Manual p.60"
+  ]
+ },
+ {
+  "id": "accessory-mount-lock",
+  "name": "Accessory Mount Lock",
+  "part_numbers": [
+   "501286"
+  ],
+  "category": "control",
+  "visual": "A small lock screw/knob threaded into the side of each power mount and base mount hole. It bears against the accessory's mounting tube.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Threads into the mount casting.",
+  "use": "Tighten it to secure the extension table, tailstock or a major accessory in its mount.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.55",
+   "MKVSTDPartsList _1_14.pdf p.5"
+  ]
+ },
+ {
+  "id": "main-spindle",
+  "name": "Main Spindle",
+  "part_numbers": [
+   "518207"
+  ],
+  "category": "machine-component",
+  "visual": "The round steel shaft protruding from the end of the quill on the right side of the headstock. It has a flat ground on it for accessory setscrews.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Built into the quill.",
+  "use": "Accessories such as the saw arbor, sanding disc, drill chuck and drive center slide fully onto it. Each is locked with a setscrew tightened against the flat.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "quill",
+  "name": "Quill",
+  "part_numbers": [
+   "514071"
+  ],
+  "category": "machine-component",
+  "visual": "A polished round steel sleeve that extends out of the right side of the headstock and carries the main spindle. It extends up to 4-1/4 in.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Internal to the headstock. Some attachments (mortising attachment, biscuit joiner housing) clamp around it.",
+  "use": "Moves the spindle in and out for drilling, boring and sanding to length. For the planer, a drive hub is mounted on the quill.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "quill-lock",
+  "name": "Quill Lock Handle",
+  "part_numbers": [
+   "5041769"
+  ],
+  "category": "control",
+  "visual": "A small lever handle on the headstock casting right next to where the quill emerges. It tightens a clamp around the quill.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Part of the headstock.",
+  "use": "Locks the quill at any extension.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "quill-feed-lever",
+  "name": "Quill Feed Handle and Hub",
+  "part_numbers": [
+   "513017",
+   "5041739"
+  ],
+  "category": "control",
+  "visual": "A round hub on the front of the headstock with a feed lever handle projecting from it. Turning it extends the quill.",
+  "used_in": [
+   "drill-press",
+   "horizontal-boring",
+   "disc-sander"
+  ],
+  "mount": "The hub fits on the quill feed pinion shaft.",
+  "use": "Rotate it to feed the quill and spindle toward the work.",
+  "guide_section": "drill-press",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "three-lever-quill-handle",
+  "name": "3-Lever Quill Feed Handle",
+  "part_numbers": [
+   "555491",
+   "516363",
+   "516264"
+  ],
+  "category": "control",
+  "visual": "A round hub with three threaded levers radiating from it, like a classic drill-press feed handle. One lever hole has a recess, and that lever passes through to engage the shaft.",
+  "used_in": [
+   "drill-press"
+  ],
+  "mount": "Screw two levers in until snug, and pass the third through the recessed hole into the pinion shaft. Then fit the hub on the quill feed pinion shaft and tighten.",
+  "use": "An optional replacement quill feed handle for easier feeding.",
+  "guide_section": "drill-press",
+  "refs": [
+   "3-Lever Drill Press Quill Handle Instructions (for 555491).pdf p.1"
+  ]
+ },
+ {
+  "id": "quill-feed-stop",
+  "name": "Quill Feed Stop",
+  "part_numbers": [
+   "5013149",
+   "5041729"
+  ],
+  "category": "control",
+  "visual": "A collar with a handle on the quill feed hub. It is partly hidden behind the feed lever.",
+  "used_in": [
+   "drill-press",
+   "horizontal-boring"
+  ],
+  "mount": "Part of the quill feed assembly.",
+  "use": "Limits quill travel for repeat drilling depths.",
+  "guide_section": "drill-press",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.24",
+   "MKVSTDPartsList _1_14.pdf p.6"
+  ]
+ },
+ {
+  "id": "power-switch",
+  "name": "Power Switch with Safety Key",
+  "part_numbers": [
+   "516532",
+   "517143"
+  ],
+  "category": "control",
+  "visual": "A locking toggle switch on the headstock with a small separate plastic switch key that plugs into it. Without the key the switch cannot be turned on.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Mounted in the headstock housing.",
+  "use": "Turns the machine on and off. Remove the key to prevent unauthorized use.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "speed-dial",
+  "name": "Speed Control Dial",
+  "part_numbers": [
+   "504198",
+   "5042259"
+  ],
+  "category": "control",
+  "visual": "A large round dial on top of the headstock with lettered speed settings. A speed chart label nearby maps operations to letters/rpm.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Part of the speed control assembly in the headstock.",
+  "use": "Sets spindle speed. Turn it only while the motor runs, and return it to Slow before switching off.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.55",
+   "MARK V 520S Owner's Manual p.62",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "headstock-lock",
+  "name": "Headstock Lock",
+  "part_numbers": [
+   "513014"
+  ],
+  "category": "control",
+  "visual": "A lock handle under the headstock where it rides on the way tubes. It clamps the headstock in position.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Part of the headstock.",
+  "use": "Secures the headstock along the way tubes. Do not overtighten.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.59",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "auxiliary-spindles",
+  "name": "Auxiliary Spindles (upper and lower)",
+  "part_numbers": [],
+  "category": "machine-component",
+  "visual": "Two short steel shafts at the left end of the headstock, one above the other, accessible through the belt cover and normally shielded by the auxiliary spindle shaft guard. They have flats for hub setscrews.",
+  "used_in": [
+   "planer",
+   "belt-sander",
+   "general"
+  ],
+  "mount": "Built into the headstock.",
+  "use": "The upper spindle drives the bandsaw, belt sander, jigsaw/scroll saw and planer (per the coupling literature). The lower spindle drives the jointer and scroll saw. Power reaches the accessory through a splined hub and coupling.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "belt-cover",
+  "name": "Belt Cover",
+  "part_numbers": [
+   "514152",
+   "50423801",
+   "521888"
+  ],
+  "category": "machine-component",
+  "visual": "The cast cover on the left end of the headstock that hides the drive belts and sheaves. The auxiliary spindles protrude through it.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Fastened to the headstock (two screws per the planer instructions; a cover lock knob is in the parts list).",
+  "use": "Remove it for access to the belts and sheaves. The auxiliary spindle shaft guard mounts on it.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7",
+   "Auxiliary Spindle Shaft Guard Instructions (for 521889).pdf p.1"
+  ]
+ },
+ {
+  "id": "logo-cover",
+  "name": "Logo Cover",
+  "part_numbers": [
+   "51372304"
+  ],
+  "category": "machine-component",
+  "visual": "A shaped cover panel on the back of the headstock carrying the Shopsmith logo. It is held by fasteners and opens to expose the wiring and speed-changer mechanism.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Fastened to the headstock housing.",
+  "use": "Gives access to the wiring and speed changer mechanism.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ },
+ {
+  "id": "poly-v-belt",
+  "name": "Poly V-Belt / Drive Belt",
+  "part_numbers": [
+   "504170",
+   "504193"
+  ],
+  "category": "machine-component",
+  "visual": "A black rubber drive belt with several small V-ribs running lengthwise on the inside. It is found under the belt cover.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Runs on the sheaves inside the headstock.",
+  "use": "Transmits motor power to the spindles. Replace it when cracked or slipping.",
+  "guide_section": "alignment",
+  "refs": [
+   "MARK V 520S Owner's Manual p.25",
+   "MKVSTDPartsList _1_14.pdf p.7",
+   "Poly V  Gilmer Belt Literature (for 521683, 521681, 556490, 556492).pdf p.1"
+  ]
+ },
+ {
+  "id": "carriage",
+  "name": "Carriage",
+  "part_numbers": [
+   "514209",
+   "514328"
+  ],
+  "category": "machine-component",
+  "visual": "A cast block that slides on the way tubes and holds the two table support tubes. It carries the table height crank, height lock and carriage lock, and it has a socket for the lathe tool rest post.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Slides on the way tubes between the headstock and the base.",
+  "use": "Positions the worktable along the machine and holds the lathe tool rest.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "carriage-lock",
+  "name": "Carriage Lock",
+  "part_numbers": [
+   "514335",
+   "514126"
+  ],
+  "category": "control",
+  "visual": "A lever handle on the carriage casting below the worktable. Swinging it clamps the carriage to the way tubes.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Part of the carriage assembly.",
+  "use": "Locks the carriage on the way tubes.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-height-crank",
+  "name": "Table Height Crank",
+  "part_numbers": [
+   "514330",
+   "513417"
+  ],
+  "category": "control",
+  "visual": "A removable crank (an arm with a spinning grip handle) that fits onto a shaft on the front of the carriage.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Fits on the carriage pinion shaft.",
+  "use": "Turn it to raise or lower the table through the racks on the support tubes.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-height-lock",
+  "name": "Table Height Lock",
+  "part_numbers": [
+   "5042629"
+  ],
+  "category": "control",
+  "visual": "A lock handle on the front of the carriage beside the table height crank. It clamps the table support tubes at the chosen height.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Part of the carriage.",
+  "use": "Locks the table height.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-support-tubes",
+  "name": "Table Support Tubes",
+  "part_numbers": [
+   "514667"
+  ],
+  "category": "machine-component",
+  "visual": "Two vertical steel tubes under the worktable, each with a toothed gear rack along one side.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Drop into holes in the carriage, where the racks engage pinions. Rock the table gently to seat them.",
+  "use": "Support the worktable and let it be raised or lowered.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.56",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "worktable",
+  "name": "Worktable",
+  "part_numbers": [
+   "51409702",
+   "515698"
+  ],
+  "category": "machine-component",
+  "visual": "The main rectangular cast table, with two miter gauge slots running front to back and a rectangular opening in the center for the table insert. A table tie bar and trunnions are underneath.",
+  "used_in": [
+   "table-saw",
+   "disc-sander",
+   "drill-press",
+   "horizontal-boring"
+  ],
+  "mount": "Mounts on the trunnions atop the table support tubes. It is lifted off for lathe mode.",
+  "use": "The work surface in saw, sander, drill and boring modes. It tilts 90° left and 45° right.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MARK V 520S Owner's Manual p.56",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-insert",
+  "name": "Table Insert (Center Saw)",
+  "part_numbers": [
+   "51410004"
+  ],
+  "category": "machine-component",
+  "visual": "A flat plate that fits flush in the worktable's center opening, with a narrow blade slot.",
+  "used_in": [
+   "table-saw",
+   "disc-sander",
+   "drill-press"
+  ],
+  "mount": "Drops into the table opening and is removed for some setups, such as mortising.",
+  "use": "Supports the stock next to the blade. Swap it for dado, molding, drum sanding or shaping inserts.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "trunnions",
+  "name": "Trunnions",
+  "part_numbers": [
+   "514130",
+   "514620"
+  ],
+  "category": "machine-component",
+  "visual": "Curved cast brackets under the front and rear of the worktable. The front one carries the vernier tilt scale.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Join the table to the table tie bar/support tubes.",
+  "use": "Allow the table to tilt.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-tilt-lock",
+  "name": "Table Tilt Lock and Tilt Indicator",
+  "part_numbers": [
+   "5042559",
+   "501409"
+  ],
+  "category": "control",
+  "visual": "A lock handle at the front trunnion beside a small vernier scale plate showing the table angle.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "On the front trunnion.",
+  "use": "Lock the table at any angle and read the angle.",
+  "guide_section": "alignment",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-stop-bolts",
+  "name": "Table Stop Bolts",
+  "part_numbers": [
+   "518372"
+  ],
+  "category": "hardware",
+  "visual": "Short hex-head bolts with jam nuts, threaded into the trunnion area under the worktable. The table rests against them at its preset angles.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Thread into the trunnion area.",
+  "use": "Adjust them as positive stops at 0°, 45° right and 90° left.",
+  "guide_section": "alignment",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.27",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "table-tie-bar",
+  "name": "Table Tie Bar",
+  "part_numbers": [
+   "514344"
+  ],
+  "category": "machine-component",
+  "visual": "A cast bar under the worktable that ties the two table support tubes and trunnions together.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Attached under the table between the support tubes.",
+  "use": "Supports the trunnions. The lower guard cover can be crushed against it if the table is lowered carelessly.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.58",
+   "MKVSTDPartsList _1_14.pdf p.9"
+  ]
+ },
+ {
+  "id": "miter-gauge",
+  "name": "Miter Gauge",
+  "part_numbers": [
+   "505700",
+   "518104",
+   "507367"
+  ],
+  "category": "fence-gauge",
+  "visual": "A half-round protractor head with an angle scale, vernier plate and big lock knob, mounted on a flat steel bar with a taper screw in its middle. The face has two slots for an extension and end holes for a stop rod.",
+  "used_in": [
+   "table-saw",
+   "disc-sander",
+   "drill-press",
+   "belt-sander"
+  ],
+  "mount": "Slides in the worktable miter slot (also fits the bandsaw and belt sander tables). Turning the taper screw in the bar locks it in the slot.",
+  "use": "Holds stock at angles from 30° right to 30° left while crosscutting, sanding, drilling or boring.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.56",
+   "MARK V 520S Owner's Manual p.57",
+   "MKVSTDPartsList _1_14.pdf p.12",
+   "Miter Gauge Instructions (for 505700).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "miter-gauge-safety-grip",
+  "name": "Miter Gauge Safety Grip / Quick Clamp",
+  "part_numbers": [
+   "505625",
+   "555125",
+   "514634"
+  ],
+  "category": "fence-gauge",
+  "visual": "An arm that bolts to the miter gauge, with a vertical rod and shoe clamp adjusted by a knob.",
+  "used_in": [
+   "table-saw",
+   "disc-sander"
+  ],
+  "mount": "Attached to the miter gauge. Raise or lower the rod and shoe by loosening the knob, and remove it via the setscrew near the back of the arm.",
+  "use": "Clamps stock up to 4-1/4 in. thick against the miter gauge.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.57",
+   "MKVSTDPartsList _1_14.pdf p.12",
+   "Miter Gauge Safety Grip Instruction Sheet (for 505625).pdf p.1"
+  ]
+ },
+ {
+  "id": "miter-gauge-stop-rod",
+  "name": "Miter Gauge Stop Rod",
+  "part_numbers": [
+   "505629"
+  ],
+  "category": "fence-gauge",
+  "visual": "A thin steel rod with a bent end that inserts through holes in the ends of the miter gauge protractor.",
+  "used_in": [
+   "table-saw",
+   "disc-sander"
+  ],
+  "mount": "Inserted through the protractor end holes and locked.",
+  "use": "A repeat stop for cutting or sanding parts to identical length.",
+  "guide_section": "accessories",
+  "refs": [
+   "Miter Gauge Instructions (for 505700).pdf p.2",
+   "Miter Gauge Stop Rod Literature (for 505629).pdf p.1"
+  ]
+ },
+ {
+  "id": "rip-fence",
+  "name": "Rip Fence",
+  "part_numbers": [
+   "514378",
+   "514930"
+  ],
+  "category": "fence-gauge",
+  "visual": "A long extruded aluminum fence bar with a T-slot along its top, cast end pieces and a lock handle. It has holes for mounting fixtures.",
+  "used_in": [
+   "table-saw",
+   "drill-press",
+   "horizontal-boring",
+   "disc-sander"
+  ],
+  "mount": "Sets across the worktable and locks with its handle. It aligns itself parallel to the blade.",
+  "use": "A guide or stop for ripping and other operations. Featherboards and mortising hold-downs slide into its top T-slot.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.29",
+   "MKVSTDPartsList _1_14.pdf p.11"
+  ]
+ },
+ {
+  "id": "extension-table",
+  "name": "Extension Table",
+  "part_numbers": [
+   "514107",
+   "516578"
+  ],
+  "category": "fence-gauge",
+  "visual": "A smaller cast rectangular table mounted on two parallel steel tubes that plug into the machine's mounts.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Insert its tubes into the power mount (left) or base mount (right) and tighten the accessory mount locks.",
+  "use": "Extra support for long or wide stock.",
+  "guide_section": "accessories",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.29",
+   "MARK V 520S Owner's Manual p.57",
+   "MKVSTDPartsList _1_14.pdf p.11"
+  ]
+ },
+ {
+  "id": "floating-extension-table",
+  "name": "Floating Extension Table",
+  "part_numbers": [
+   "555984",
+   "522356"
+  ],
+  "category": "fence-gauge",
+  "visual": "An optional extension table used with connector tubes and telescoping legs to build long support setups.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Joined to the machine with connector tubes and supported by telescoping legs.",
+  "use": "Provides long infeed/outfeed or side support.",
+  "guide_section": "accessories",
+  "refs": [
+   "MARK V 520S Owner's Manual p.61",
+   "MARK 7  MARK V 520  MARK 4 Floating Extension Table Instructions (for 555984, 522356, 556187).pdf p.1"
+  ]
+ },
+ {
+  "id": "upper-saw-guard",
+  "name": "Upper Saw Guard",
+  "part_numbers": [
+   "514366"
+  ],
+  "category": "safety-guard",
+  "visual": "A hinged guard hood that rides above the blade, attached to a flat riving knife, with anti-kickback mechanism.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Grasp the riving knife top with the guard up and slide it down through the table insert into the lower saw guard.",
+  "use": "A barrier over the exposed blade that helps control kickback.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.28",
+   "MARK V 520S Owner's Manual p.58",
+   "MKVSTDPartsList _1_14.pdf p.10"
+  ]
+ },
+ {
+  "id": "riving-knife",
+  "name": "Riving Knife",
+  "part_numbers": [
+   "514367"
+  ],
+  "category": "safety-guard",
+  "visual": "A flat, curved steel plate behind the blade, about blade-thick. The upper guard hangs from it.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Slides through the table insert into the lower saw guard as part of upper guard installation.",
+  "use": "Keeps the kerf open to reduce kickback.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.28",
+   "MARK V 520S Owner's Manual p.58",
+   "MKVSTDPartsList _1_14.pdf p.10"
+  ]
+ },
+ {
+  "id": "lower-saw-guard",
+  "name": "Lower Saw Guard",
+  "part_numbers": [
+   "514358"
+  ],
+  "category": "safety-guard",
+  "visual": "A cast, roughly semicircular shroud that surrounds the lower part of the blade or disc. It has a dust chute outlet and a sliding guard cover secured with lock knobs.",
+  "used_in": [
+   "table-saw",
+   "disc-sander"
+  ],
+  "mount": "Mounts on the headstock around the spindle. Slide the guard cover toward the blade/disc and lock the knobs.",
+  "use": "Protects you from the part of the blade below the table. It is also used with the sanding disc.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.28",
+   "MARK V 520S Owner's Manual p.58",
+   "MARK V 520S Owner's Manual p.59",
+   "MKVSTDPartsList _1_14.pdf p.10"
+  ]
+ },
+ {
+  "id": "featherboard",
+  "name": "Featherboard",
+  "part_numbers": [
+   "518215"
+  ],
+  "category": "safety-guard",
+  "visual": "A plastic board with a row of flexible angled fingers on one edge, included with the machine's standard accessories.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Clamps to the setup so its fingers press stock toward the fence or table. Never place it over the blade.",
+  "use": "Holds stock firmly against the fence/table during cuts.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.31",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "featherboard-hold-down",
+  "name": "Featherboard Hold Down",
+  "part_numbers": [
+   "555783",
+   "518216",
+   "521417",
+   "521665"
+  ],
+  "category": "safety-guard",
+  "visual": "A plastic finger featherboard mounted on a flat plate with two T-bolts and knobs so it can hang down over the stock from the top of the rip fence.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Slide the T-bolts into the T-slot on top of the rip fence (either end on the 520) and lock the knobs. Lower it onto the stock, spring the fingers 1/8–1/4 in., and lock the height knobs.",
+  "use": "Holds stock down against the table, ahead of or behind the blade/dado/molder head.",
+  "guide_section": "table-saw",
+  "refs": [
+   "Featherboard Hold Down Assembly and Instructions (for All MARKs except MARK V 500) (for 555783).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "push-stick",
+  "name": "Push Stick and Push Block",
+  "part_numbers": [
+   "518221",
+   "518220"
+  ],
+  "category": "safety-guard",
+  "visual": "A flat notched push stick and a block-shaped push block with a handle, part of the standard safety accessories.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Loose hand tools; nothing to mount.",
+  "use": "Feed narrow or short stock past the blade while keeping your hands clear.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.31",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "fence-straddler",
+  "name": "Fence Straddler",
+  "part_numbers": [
+   "518218"
+  ],
+  "category": "safety-guard",
+  "visual": "A block assembly shaped to ride over the top of the rip fence, with a straddler block.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Rides along the rip fence.",
+  "use": "Pushes stock along the fence past the blade.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "aux-spindle-guard",
+  "name": "Auxiliary Spindle Shaft Guard",
+  "part_numbers": [
+   "521889"
+  ],
+  "category": "safety-guard",
+  "visual": "A guard that fastens over the two auxiliary spindles on the headstock belt cover. It shields the spinning shafts but leaves them reachable.",
+  "used_in": [
+   "planer",
+   "belt-sander",
+   "general"
+  ],
+  "mount": "Installs on the belt cover (521888) at the left of the headstock using the 5/32 in. long Allen wrench supplied with the Mark V. Install it before first operation.",
+  "use": "Protects you from the rotating auxiliary spindles.",
+  "guide_section": "accessories",
+  "refs": [
+   "Auxiliary Spindle Shaft Guard Instructions (for 521889).pdf p.1"
+  ]
+ },
+ {
+  "id": "pulley-guard",
+  "name": "Pulley and Belt Guard",
+  "part_numbers": [
+   "505862"
+  ],
+  "category": "safety-guard",
+  "visual": "A guard that encloses the motor pulley, belt and tool pulley when an accessory runs from a separate motor on a mounting base.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Used with a mounting base (522434). Install it over the pulleys after fitting the correct motor and tool pulleys from the pulley/belt/speed chart.",
+  "use": "Shields belts and pulleys on stand-alone, belt-driven setups.",
+  "guide_section": "accessories",
+  "refs": [
+   "Pulley Guard Instruction Sheet (for 505862 + 522434).pdf p.1"
+  ]
+ },
+ {
+  "id": "safety-goggles",
+  "name": "Safety Goggles",
+  "part_numbers": [
+   "513456"
+  ],
+  "category": "safety-guard",
+  "visual": "Clear plastic wrap-around eye-protection goggles with an elastic strap, included in the standard accessory pack.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Worn by the operator.",
+  "use": "Eye protection for all operations.",
+  "guide_section": "accessories",
+  "refs": [
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "saw-blade",
+  "name": "10 in. Saw Blade",
+  "part_numbers": [],
+  "category": "blade-cutter",
+  "visual": "A 10 in. circular steel combination blade with a center bore that fits the saw arbor.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Fits on the 1-1/4 in. saw arbor and is held with the arbor nut. The arbor then mounts on the main spindle.",
+  "use": "Used for both ripping and crosscutting.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20"
+  ]
+ },
+ {
+  "id": "saw-arbor",
+  "name": "Saw Arbor and Arbor Nut",
+  "part_numbers": [
+   "514400",
+   "514401"
+  ],
+  "category": "hardware",
+  "visual": "A short steel hub with a flange, a threaded end for the arbor nut, and a setscrew hole. It slides onto the main spindle.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Slide it onto the main spindle and tighten its setscrew against the spindle flat. Mount the blade and tighten the arbor nut with the arbor wrench.",
+  "use": "Holds saw blades and dado/molding cutters on the main spindle.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.31",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "arbor-wrench",
+  "name": "Arbor Wrench",
+  "part_numbers": [
+   "515979"
+  ],
+  "category": "hardware",
+  "visual": "A flat, stamped-steel open wrench, thin and roughly hand-length, sized to fit the saw arbor nut.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "A loose tool.",
+  "use": "Tightens and loosens the arbor nut when changing blades.",
+  "guide_section": "table-saw",
+  "refs": [
+   "MARK V 520S Owner's Manual p.31",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "allen-setscrew",
+  "name": "Accessory Setscrews",
+  "part_numbers": [
+   "513056",
+   "504153",
+   "502051",
+   "222458"
+  ],
+  "category": "hardware",
+  "visual": "Small headless hex-socket (Allen) setscrews, typically 1/4 or 5/16 in. thread, found in accessory hubs (saw arbor, chuck, sanding disc, couplings).",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Thread into an accessory hub and tighten against the spindle flat.",
+  "use": "Lock accessories to the main or auxiliary spindles. Loose ones in a box usually belong to a hub.",
+  "guide_section": "alignment",
+  "refs": [
+   "MKVSTDPartsList _1_14.pdf p.7",
+   "MKVSTDPartsList _1_14.pdf p.13",
+   "5-8 Inch Keyless Drill Chuck Instructions (for 556273).pdf p.1"
+  ]
+ },
+ {
+  "id": "allen-wrench-5-32",
+  "name": "5/32 in. Long-Style Allen Wrench",
+  "part_numbers": [
+   "51368601"
+  ],
+  "category": "hardware",
+  "visual": "An L-shaped hex key with one long arm, supplied with the Mark V.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "A loose tool.",
+  "use": "Fits the accessory setscrews and auxiliary hubs, gives leverage on the miter gauge lock knob, and adjusts the miter-bar taper screw.",
+  "guide_section": "alignment",
+  "refs": [
+   "Auxiliary Spindle Shaft Guard Instructions (for 521889).pdf p.1",
+   "Miter Gauge Instructions (for 505700).pdf p.2",
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.1"
+  ]
+ },
+ {
+  "id": "accessory-coupling",
+  "name": "Accessory Coupling Package (hubs + coupling)",
+  "part_numbers": [
+   "555124",
+   "503574",
+   "503570",
+   "503738"
+  ],
+  "category": "hardware",
+  "visual": "A short flexible coupling with 5-spline ends, plus two small hubs: a spindle hub and an idler hub, each with a 1/4 in. setscrew.",
+  "used_in": [
+   "planer",
+   "belt-sander",
+   "general"
+  ],
+  "mount": "Fit the spindle hub on the upper auxiliary spindle (bandsaw, belt sander, jigsaw, planer) or the idler hub on the lower one (jointer, scroll saw). Lock the setscrew on the flat, then slide the coupling over the accessory's hub. Shaft alignment must be within 1/16 in.",
+  "use": "Transmits power from the Mark V to a major accessory.",
+  "guide_section": "accessories",
+  "refs": [
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "sanding-disc",
+  "name": "12 in. Sanding Disc",
+  "part_numbers": [
+   "555143",
+   "505841"
+  ],
+  "category": "sanding",
+  "visual": "A flat 12 in. round metal disc with a center hub and setscrew, faced with a sheet of abrasive paper. A medium-grit disc paper is standard.",
+  "used_in": [
+   "disc-sander"
+  ],
+  "mount": "Slide it onto the main spindle and tighten the setscrew against the flat. Use it with the lower saw guard, and keep the table 1/16 in. from the disc (1/2 in. when using quill feed).",
+  "use": "Disc sanding of ends, miters and bevels against the worktable or miter gauge.",
+  "guide_section": "disc-sander",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.59",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "conical-sanding-disc",
+  "name": "Conical Sanding Disc",
+  "part_numbers": [
+   "555435"
+  ],
+  "category": "sanding",
+  "visual": "A round sanding disc whose face is slightly cone-shaped rather than flat (seen from the side). It takes cloth-backed aluminum oxide sandpaper.",
+  "used_in": [
+   "disc-sander"
+  ],
+  "mount": "Mounts on the main spindle like the regular disc. Keep a maximum 1/16 in. clearance to the worktable, and do not use it in drill press mode.",
+  "use": "Surface-planes and smooths stock fed on the downward side of the disc. Use 50/80/150 grit, removing at most 1/8, 1/16 and 1/32 in. per pass respectively.",
+  "guide_section": "disc-sander",
+  "refs": [
+   "Conical Sanding Literature (for 555435 + 555477).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "drum-sander",
+  "name": "Drum Sander",
+  "part_numbers": [
+   "505552",
+   "503007",
+   "503009",
+   "503010"
+  ],
+  "category": "sanding",
+  "visual": "A small cylindrical drum with a rubber sleeve that expands to grip an abrasive sleeve when the hex head nut on the end is tightened. The hub has a setscrew.",
+  "used_in": [
+   "disc-sander",
+   "drill-press",
+   "belt-sander"
+  ],
+  "mount": "Mounts on the main spindle (or the belt sander's auxiliary spindle) with the setscrew. Tighten the hex nut to lock the sanding sleeve.",
+  "use": "Sands inside and outside curves, edges and rabbets. Best speed is about 1800–2000 rpm (I or J on the Mark V).",
+  "guide_section": "disc-sander",
+  "refs": [
+   "Drum Sander.pdf p.1",
+   "Belt Sanding.pdf p.2"
+  ]
+ },
+ {
+  "id": "multi-sand-drum",
+  "name": "Multi-Sand Drum Sander (2-5/16 x 6 in.)",
+  "part_numbers": [
+   "556254"
+  ],
+  "category": "sanding",
+  "visual": "A longer drum (2-5/16 in. diameter, 6 in. long) that holds several 2 in. sanding sleeves of different grits at once.",
+  "used_in": [
+   "disc-sander",
+   "drill-press"
+  ],
+  "mount": "Mounts on the main spindle, with versions for different Mark V models.",
+  "use": "Drum sanding with multiple grits available without changing sleeves.",
+  "guide_section": "disc-sander",
+  "refs": [
+   "2-5-16 x 6 Inch Multi-Sand Drum Sander Assembly Instructions (for 556254, 556253, 556251, 556250, 556252).pdf p.1"
+  ]
+ },
+ {
+  "id": "drill-chuck",
+  "name": "Drill Chuck and Key",
+  "part_numbers": [
+   "505633",
+   "501419"
+  ],
+  "category": "hardware",
+  "visual": "A geared three-jaw drill chuck on a hub with a setscrew, plus a T-shaped chuck key with a small gear on its end.",
+  "used_in": [
+   "drill-press",
+   "horizontal-boring",
+   "lathe"
+  ],
+  "mount": "Mount it all the way onto the main spindle and tighten the setscrew against the flat. Tighten bits with the key, and always remove the key afterward.",
+  "use": "Holds drill bits for drill press and horizontal boring modes.",
+  "guide_section": "drill-press",
+  "refs": [
+   "MARK V 520S Owner's Manual p.20",
+   "MARK V 520S Owner's Manual p.59",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "keyless-chuck",
+  "name": "5/8 in. Keyless Drill Chuck",
+  "part_numbers": [
+   "556273"
+  ],
+  "category": "hardware",
+  "visual": "A drill chuck with a knurled outer body and a top ring instead of key holes. It holds bits from 1/32 to 5/8 in. and comes on an arbor with a flat point setscrew.",
+  "used_in": [
+   "drill-press",
+   "horizontal-boring"
+  ],
+  "mount": "Mounts to the main (quill) spindle with a 5/16-18 x 1/4 in. setscrew, just like the standard chuck.",
+  "use": "Hold the top ring and rotate the body to open or close the jaws by hand.",
+  "guide_section": "drill-press",
+  "refs": [
+   "5-8 Inch Keyless Drill Chuck Instructions (for 556273).pdf p.1"
+  ]
+ },
+ {
+  "id": "mortising-attachment",
+  "name": "Mortising Attachment (Mortising System)",
+  "part_numbers": [
+   "555810",
+   "521901",
+   "503776",
+   "503777"
+  ],
+  "category": "mode-accessory",
+  "visual": "A cast quill attachment with an arm and an adjustable sleeve that holds a square hollow mortising chisel. The kit adds a hold-down (foot on a rod) that mounts on the rip fence, plus 1/4, 3/8 and 1/2 in. chisel bits and a honing stone.",
+  "used_in": [
+   "drill-press",
+   "horizontal-boring"
+  ],
+  "mount": "Remove the table insert. Slip the attachment over the quill with its arm facing away from the way tubes and secure it with the socket head cap screw (3/16 in. Allen). The drill chuck holds the bit inside the chisel, with about 1/32 in. clearance. The hold-down's T-nut engages the rip fence T-slot.",
+  "use": "Cuts square-ended, flat-bottomed mortises.",
+  "guide_section": "drill-press",
+  "refs": [
+   "Mortising System Manual (for 555810).pdf p.1-3",
+   "Shopsmith Mark 5 Catalog.pdf p.16"
+  ]
+ },
+ {
+  "id": "drive-center",
+  "name": "Lathe Drive Center",
+  "part_numbers": [
+   "505715"
+  ],
+  "category": "lathe",
+  "visual": "A steel center on a hub, with a sharp center point surrounded by spurs (prongs) that bite into the end of the stock. The hub has a setscrew.",
+  "used_in": [
+   "lathe"
+  ],
+  "mount": "Mount it all the way onto the main spindle and tighten the setscrew on the flat.",
+  "use": "Grips and turns the stock in spindle turning.",
+  "guide_section": "lathe",
+  "refs": [
+   "MARK V 520S Owner's Manual p.21",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "cup-center",
+  "name": "Lathe Cup Center",
+  "part_numbers": [
+   "505716"
+  ],
+  "category": "lathe",
+  "visual": "A tapered-shank center with a pointed pin surrounded by a sharp ring (cup).",
+  "used_in": [
+   "lathe",
+   "horizontal-boring"
+  ],
+  "mount": "Fits in the tailstock with the point toward the headstock. If it sticks, tap it out from behind with a nylon or rawhide mallet.",
+  "use": "Supports the free end of stock between centers. Wax the end of the stock where it bears.",
+  "guide_section": "lathe",
+  "refs": [
+   "MARK V 520S Owner's Manual p.21",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "tailstock",
+  "name": "Tailstock",
+  "part_numbers": [
+   "504276",
+   "501438"
+  ],
+  "category": "lathe",
+  "visual": "A cast body with an eccentric mount on two mounting tubes, holding a socket for the cup center.",
+  "used_in": [
+   "lathe",
+   "horizontal-boring"
+  ],
+  "mount": "Mount it in the base mount (right side) with the flat face of the eccentric mount toward the headstock, then tighten the accessory mount lock.",
+  "use": "Supports the right end of spindle turnings, and stock in some boring setups.",
+  "guide_section": "lathe",
+  "refs": [
+   "MARK V 520S Owner's Manual p.31",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "tool-rest",
+  "name": "Lathe Tool Rest",
+  "part_numbers": [
+   "514398",
+   "503749"
+  ],
+  "category": "lathe",
+  "visual": "A T-shaped steel rest bar on a post. The post has a gear rack along one side.",
+  "used_in": [
+   "lathe"
+  ],
+  "mount": "Mount it in the carriage with the post rack pointing right so it engages the carriage pinion gear. It has two mounting positions.",
+  "use": "Supports and guides lathe chisels during turning.",
+  "guide_section": "lathe",
+  "refs": [
+   "MARK V 520S Owner's Manual p.21",
+   "MARK V 520S Owner's Manual p.60",
+   "MKVSTDPartsList _1_14.pdf p.13"
+  ]
+ },
+ {
+  "id": "universal-tool-rest",
+  "name": "Universal Tool Rest",
+  "part_numbers": [
+   "555811",
+   "521788",
+   "521794"
+  ],
+  "category": "lathe",
+  "visual": "An optional tool rest system with a mounting plate, support base, collar and a tool-support-and-shaft assembly with handles.",
+  "used_in": [
+   "lathe"
+  ],
+  "mount": "Assembles onto the machine with a mounting plate and bar (see the literature).",
+  "use": "An alternative, more adjustable rest for spindle and faceplate turning.",
+  "guide_section": "lathe",
+  "refs": [
+   "Universal Tool Rest.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "faceplate",
+  "name": "Faceplate",
+  "part_numbers": [],
+  "category": "lathe",
+  "visual": "A round flat steel plate with a center hub and setscrew, drilled with screw holes for attaching a wood blank.",
+  "used_in": [
+   "lathe"
+  ],
+  "mount": "Screw the blank to the plate, then mount the plate on the main spindle.",
+  "use": "Used for faceplate turning of bowls and plates.",
+  "guide_section": "lathe",
+  "refs": [
+   "Face-Plate Turning.pdf p.1",
+   "Shopsmith Mark 5 Catalog.pdf p.17-18"
+  ]
+ },
+ {
+  "id": "planer",
+  "name": "12 in. Thickness Planer",
+  "part_numbers": [],
+  "category": "spt",
+  "visual": "A box-shaped planer about 2 ft long with a 28 x 12-1/2 in. table, infeed and outfeed shields over a three-knife cutterhead, a thickness crank with scale on top, and a separate switch/control box. It has its own small feed motor.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Strip the machine to headstock and carriage. Set the planer on the way tubes with the switch box toward the right and the infeed on the switch side, and clamp it with its two way tube clamps. The cutterhead is driven from the headstock through a hub and coupler (the PowerPro literature puts the hub on the quill). Lock the quill.",
+  "use": "Planes boards 1–12 in. wide, at least 12 in. long, from 4 in. down to 3/32 in. thick. Take at most 3/32 in. per pass, feed with the grain, and set speed and feed from the speed/feed chart.",
+  "guide_section": "planer",
+  "refs": [
+   "Thickness Planing.pdf p.1-3",
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "planer-cutterhead",
+  "name": "Planer Cutterhead and Knives",
+  "part_numbers": [],
+  "category": "blade-cutter",
+  "visual": "A 2-1/4 in. diameter cutterhead holding three wedge-shaped steel knives, each 12-1/4 in. long. Each knife is held by two metal wedges with four locking screws each, and sits on three leveling screws.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Internal to the planer. Use only Shopsmith wedge-shaped knives, and level them with the leveling screws.",
+  "use": "Cuts the top face of the board. Check the wedge screws after every 10 hours or if noise, vibration or uneven cuts appear.",
+  "guide_section": "planer",
+  "refs": [
+   "Thickness Planing.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "planer-thickness-crank",
+  "name": "Planer Thickness Adjustment Crank and Scale",
+  "part_numbers": [],
+  "category": "control",
+  "visual": "A crank handle on top of the planer with a thickness scale. Turning it moves the table relative to the cutterhead.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Part of the planer.",
+  "use": "Counter-clockwise lowers the table for thicker stock, and clockwise raises it. Always lower past the mark, then raise to it, to take up slack.",
+  "guide_section": "planer",
+  "refs": [
+   "Thickness Planing.pdf p.3"
+  ]
+ },
+ {
+  "id": "planer-feed-control",
+  "name": "Planer Feed Motor and Feed Control",
+  "part_numbers": [],
+  "category": "control",
+  "visual": "A 1/20 hp variable-speed feed motor with a numbered feed control on the planer. Setting #1 is slowest.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Part of the planer. Feed is switched on from the planer's switch box.",
+  "use": "Sets how fast stock feeds. Slow the feed if the cutterhead bogs down.",
+  "guide_section": "planer",
+  "refs": [
+   "Thickness Planing.pdf p.1,3",
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.3"
+  ]
+ },
+ {
+  "id": "planer-switch-box",
+  "name": "Planer Switch / Control Box",
+  "part_numbers": [],
+  "category": "control",
+  "visual": "A separate switch box on the planer with a lifting switch actuator and an outlet on its bottom for a dust collector.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Mounted on the planer at the right end when the planer is installed on the way tubes. Plug it into its own outlet.",
+  "use": "Turns the feed motor on. A dust collector plugged into it starts with the planer. Do not disassemble it.",
+  "guide_section": "planer",
+  "refs": [
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.2-3",
+   "Thickness Planing.pdf p.2"
+  ]
+ },
+ {
+  "id": "planer-shields",
+  "name": "Planer Infeed and Outfeed Shields",
+  "part_numbers": [],
+  "category": "safety-guard",
+  "visual": "Hinged covers over the planer's infeed and outfeed openings. The outfeed shield carries a rotating Shopsmith logo plate covering a sawdust port.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Part of the planer. They must be kept down and locked during operation.",
+  "use": "Mark the danger zone. Never reach under them while the planer is plugged in.",
+  "guide_section": "planer",
+  "refs": [
+   "Thickness Planing.pdf p.2",
+   "Planer Dust Chute Instructions (for 555643, 300001).pdf p.1"
+  ]
+ },
+ {
+  "id": "planer-dust-chute",
+  "name": "Planer Dust Chute",
+  "part_numbers": [
+   "300001",
+   "555643",
+   "513419",
+   "517920",
+   "517914",
+   "514521"
+  ],
+  "category": "dust-collection",
+  "visual": "A molded plastic chute with two top wing tabs and a metal chute bottom held on by four barbed clips, plus a 2-1/2 in. elbow outlet for the hose.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Rotate the logo on the outfeed shield 180° to open the port. Raise the outfeed shield, rest the chute tab on the outfeed tie bar and the wings on the side castings, and press the wings in until it pops into place.",
+  "use": "Connects the planer to a 2-1/2 in. dust collector hose. Never run it without the collector on, or it clogs.",
+  "guide_section": "planer",
+  "refs": [
+   "Planer Dust Chute Instructions (for 555643, 300001).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "planer-knife-jig",
+  "name": "Planer/Jointer Knife Sharpening Jig",
+  "part_numbers": [
+   "555471"
+  ],
+  "category": "hardware",
+  "visual": "A jig that holds planer or jointer knives at a set angle for sharpening.",
+  "used_in": [
+   "planer"
+  ],
+  "mount": "Used off the machine (see the scanned literature for the method).",
+  "use": "Sharpens planer and jointer knives. (verify) The details are in a 13-page scan that was not read.",
+  "guide_section": "planer",
+  "refs": [
+   "Planer Jointer Knife Sharpening Jig Literature (For 555471).pdf"
+  ]
+ },
+ {
+  "id": "belt-sander",
+  "name": "6 in. Belt Sander",
+  "part_numbers": [],
+  "category": "spt",
+  "visual": "A belt sander running a 6 in. wide abrasive belt over a rubber-sleeved drive drum and a spring-loaded idler drum. It has a flat metal backup plate on the 'hard side', a small 6 x 9 in. tilting worktable with a miter slot, a dust chute in its lower casting, and two parallel mounting tubes. Tension and tracking knobs are on the left side.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Its tubes mount on the Mark V (power mount) or a Power Stand, and it is driven from the upper auxiliary spindle via the coupling. It runs vertical or horizontal; positions in between need the extra bolt.",
+  "use": "Surface, end, miter, bevel and contour sanding, and tool sharpening. The belt travels one way, leaving no swirl marks. Horizontal is best for surface sanding.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.1-3",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "belt-sander-belt",
+  "name": "Abrasive Sanding Belt (6 x 48 in.)",
+  "part_numbers": [],
+  "category": "sanding",
+  "visual": "A continuous loop of abrasive cloth, 6 in. wide by 48 in. long, in coarse, medium or fine grit.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Fits over the drive and idler drums. The spring-loaded idler drum tensions it automatically.",
+  "use": "The sanding surface. Work from coarse to fine, store belts without kinks, and discard worn belts.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.2"
+  ]
+ },
+ {
+  "id": "belt-sander-table",
+  "name": "Belt Sander Worktable",
+  "part_numbers": [],
+  "category": "mode-accessory",
+  "visual": "A small 6 x 9 in. cast table with a miter gauge slot that has two cast holes for fixtures.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Installs in four positions on the hard side: parallel to the belt on either side, or perpendicular at the center or back. Set it no more than 1/16 in. above the belt, and never touching it.",
+  "use": "Supports work and acts as a backstop. It tilts 0–20° into the belt and 0–45° away. Never tilt it toward the belt in use.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "belt-sander-tension-tracking",
+  "name": "Belt Tension and Tracking Knobs",
+  "part_numbers": [],
+  "category": "control",
+  "visual": "Two knobs on the left side at the idler drum: the tension knob, and the tracking knob behind it.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Part of the belt sander.",
+  "use": "The tension knob releases the torsion spring that tensions the belt. The tracking knob tilts the idler drum to center the belt on the backup plate.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.1"
+  ]
+ },
+ {
+  "id": "belt-sander-backup-plate",
+  "name": "Belt Sander Backup Plate",
+  "part_numbers": [],
+  "category": "sanding",
+  "visual": "A flat metal plate directly behind the belt on the 'hard side' of the sander. Without the table it gives a 6 x 16-1/2 in. working area.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Part of the belt sander frame.",
+  "use": "Supports the belt for flat sanding. The 'soft side' without the plate (3 x 16 in.) is for contours.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "belt-sander-aux-spindle-cap",
+  "name": "Belt Sander Auxiliary Spindle and Cap",
+  "part_numbers": [],
+  "category": "hardware",
+  "visual": "A short spindle on the belt sander casting, covered by a press-in cap when not in use.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "Tap the cap's lip into the casting with a mallet. To remove it, turn and pull with pliers.",
+  "use": "Can drive a drum sander (tighter 1-1/4 in. radius than the idler drum) or a drill chuck. Never exceed the slowest tool's speed in combinations.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sanding.pdf p.2"
+  ]
+ },
+ {
+  "id": "belt-sander-dust-chute",
+  "name": "Belt Sander Dust Chute (upgrade)",
+  "part_numbers": [
+   "300002",
+   "514854-02",
+   "514521",
+   "513191",
+   "124818"
+  ],
+  "category": "dust-collection",
+  "visual": "A replacement dust chute with a 2-1/2 in. elbow that points downward, attached to the right frame side with two socket head screws.",
+  "used_in": [
+   "belt-sander"
+  ],
+  "mount": "File off the protrusion on the sander support, then remove the original chute (two screws, 1/4 in. Allen). Attach the new chute with the 1/4-20 x 1 in. screws and jam nuts, and insert the elbow facing down.",
+  "use": "Connects the belt sander to the dust collector without kinking the hose, especially when vertical.",
+  "guide_section": "belt-sander",
+  "refs": [
+   "Belt Sander Dust Chute Upgrade Instructions (for 300002).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "bandsaw",
+  "name": "Bandsaw (SPT)",
+  "part_numbers": [
+   "555943"
+  ],
+  "category": "spt",
+  "visual": "A tall, upright bandsaw with large upper and lower wheel covers, a tilting table and a blade guide post. It has two mounting tubes at its base.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Mounts in the power mount and runs from the upper auxiliary spindle.",
+  "use": "Curved and resaw cuts. Its own manual covers setup.",
+  "guide_section": "accessories",
+  "refs": [
+   "Bandsaw Owners Manual and Reference Guide (for 555943).pdf",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "bandsaw-circle-cutter",
+  "name": "Bandsaw Circle Cutter",
+  "part_numbers": [
+   "555489",
+   "516156",
+   "516389"
+  ],
+  "category": "fence-gauge",
+  "visual": "An arm assembly with a clamp, short vertical arm, pivot plate and pointed center pin, attached to the bandsaw table extension.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Bolts to the middle of the bandsaw table extension (which is required). It is squared with a 7/16 in. wrench and 1/8 in. Allen wrench.",
+  "use": "Cuts circles on the bandsaw: 2–15-1/2 in. with the pin down, 15–36 in. with the pin up.",
+  "guide_section": "accessories",
+  "refs": [
+   "Circle Cutter.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "jointer",
+  "name": "Jointer (SPT)",
+  "part_numbers": [],
+  "category": "spt",
+  "visual": "A long, narrow cast-iron machine with infeed and outfeed beds, a fence, and a spring-loaded guard over the cutterhead. It has two mounting tubes.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Mounts in the power mount and runs from the lower auxiliary spindle via the idler hub and coupling.",
+  "use": "Flattening faces and edges, and rabbeting.",
+  "guide_section": "accessories",
+  "refs": [
+   "Jointers.pdf",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1",
+   "Shopsmith Mark 5 Catalog.pdf p.14"
+  ]
+ },
+ {
+  "id": "scroll-saw",
+  "name": "Scroll Saw / Jigsaw (SPT)",
+  "part_numbers": [],
+  "category": "spt",
+  "visual": "A saw with an arm overhanging a small square table and a reciprocating thin blade.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Mounts in the power mount. Per the coupling literature, the scroll saw runs from the lower auxiliary spindle and the jigsaw from the upper one.",
+  "use": "Fretwork and tight curves.",
+  "guide_section": "accessories",
+  "refs": [
+   "Scroll Saw.pdf",
+   "MARK V Accessory Hub Literature (for 555124, 505631).pdf p.1"
+  ]
+ },
+ {
+  "id": "strip-sander",
+  "name": "Strip Sander (SPT)",
+  "part_numbers": [],
+  "category": "spt",
+  "visual": "A narrow-belt sander with a platen and a small table, mounted on tubes.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Mounts in the power mount. To run the belt upward, it must be mounted on the quill end.",
+  "use": "Narrow-belt sanding. It is also the base for the chisel sharpener attachment.",
+  "guide_section": "accessories",
+  "refs": [
+   "MARK V 520S Owner's Manual p.19",
+   "Chisel Sharpener Attachment Instructions (for 555812).pdf p.2"
+  ]
+ },
+ {
+  "id": "chisel-sharpener",
+  "name": "Chisel Sharpener Attachment",
+  "part_numbers": [
+   "555812",
+   "521846",
+   "521847",
+   "515318"
+  ],
+  "category": "mode-accessory",
+  "visual": "An attachment with a chisel bracket, chisel protractor, support angle, small clear eye shield and knobs, plus a sharpening plate that replaces the strip sander platen.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Replaces the strip sander table, and the platen is changed. The strip sander then mounts on the Mark V quill end.",
+  "use": "Sharpens straight and curved chisels, lathe scraping tools and carving chisels at set angles.",
+  "guide_section": "accessories",
+  "refs": [
+   "Chisel Sharpener Attachment Instructions (for 555812).pdf p.1-2"
+  ]
+ },
+ {
+  "id": "biscuit-joiner",
+  "name": "Biscuit Joiner",
+  "part_numbers": [
+   "555320"
+  ],
+  "category": "mode-accessory",
+  "visual": "A housing with a spring-loaded front guide (engraved centerline and two sharp pins), a carbide-tipped blade inside, depth stop setscrews, and a 2-1/2 in. dust chute.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "The housing attaches to the quill, and the blade arbor mounts on the main spindle. The literature lists Mark V Model 500 and 510.",
+  "use": "Cuts semi-elliptical slots for #0, #10 and #20 beech biscuits. Press the stock against the guide to plunge.",
+  "guide_section": "accessories",
+  "refs": [
+   "Biscuit Joining.pdf p.1-2",
+   "Biscuit Jointer.pdf p.1-2"
+  ]
+ },
+ {
+  "id": "dado-set",
+  "name": "Dado Blade Set",
+  "part_numbers": [],
+  "category": "blade-cutter",
+  "visual": "A stack of circular cutters (outer blades plus chippers) used to cut wide grooves.",
+  "used_in": [
+   "table-saw"
+  ],
+  "mount": "Mounts on the saw arbor and needs a dado table insert. (verify) Exact setup is in the scanned dado literature, which was not read.",
+  "use": "Cuts dadoes, grooves and rabbets.",
+  "guide_section": "table-saw",
+  "refs": [
+   "Dado Safety and Operating Instructions.pdf"
+  ]
+ },
+ {
+  "id": "lift-assist",
+  "name": "Lift Assist",
+  "part_numbers": [
+   "555975"
+  ],
+  "category": "machine-component",
+  "visual": "A gas-spring cylinder that snaps onto ball studs between an upper mount clamped to the back way tube and a lower mount clamped to the back bench tube. Each mount is secured with caps and long bolts.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Bolt the lower mount under the back bench tube and the upper mount on the back way tube. Snap the cylinder (larger end up) onto the ball studs. Remove the cylinder before taking the headstock off the way tubes.",
+  "use": "Greatly reduces the effort to raise the machine to vertical drill-press position.",
+  "guide_section": "accessories",
+  "refs": [
+   "Lift Assist (MARK V after 1972) Literature (for 555975).pdf p.1-6"
+  ]
+ },
+ {
+  "id": "dust-collector",
+  "name": "Dust Collector (DC-3300 / DC-6000)",
+  "part_numbers": [
+   "556700"
+  ],
+  "category": "dust-collection",
+  "visual": "A wheeled canister-style dust collector with a motor on top, filter bag, and a 2-1/2 in. hose.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Connect the hose to the planer, belt sander or lower saw guard chute. Use a separate circuit from the Mark V.",
+  "use": "Collects chips and dust. It can be switched on from the planer's control box outlet.",
+  "guide_section": "accessories",
+  "refs": [
+   "DC-6000 Owners Manual and Reference Guide (for 556700).pdf",
+   "Belt Sanding.pdf p.2",
+   "Planer (MARK Mounted) How to Use on PowerPro Smart Motor Instructions (for 514056, 516073).pdf p.2"
+  ]
+ },
+ {
+  "id": "speed-chart-label",
+  "name": "Speed Chart Label",
+  "part_numbers": [
+   "516627"
+  ],
+  "category": "control",
+  "visual": "A printed adhesive label listing operations with recommended speed-dial letter and rpm.",
+  "used_in": [
+   "general"
+  ],
+  "mount": "Stuck on the headstock near the speed dial.",
+  "use": "Use it to look up the correct speed for each operation.",
+  "guide_section": "anatomy",
+  "refs": [
+   "MKVSTDPartsList _1_14.pdf p.7"
+  ]
+ }
+]

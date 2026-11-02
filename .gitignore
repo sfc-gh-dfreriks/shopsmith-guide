@@ -1,0 +1,4 @@
+# Shopsmith owner's manuals are copyrighted and large; keep them local only.
+docs/
+.DS_Store
+*.pdf

@@ -1,0 +1,8 @@
+{
+  "name": "Shopsmith Mark V Guide",
+  "short_name": "Shopsmith",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d3b5c"
+}
