@@ -215,11 +215,17 @@
   }
 
   // ---------- identify ----------
+  var SNOWFLAKE_APP_URL = "https://app.snowflake.com/sfsenorthamerica/dfreriks_aws1_w2/#/streamlit-apps/SHOPSMITH_GUIDE.APP.PART_ID";
+
   function pageIdentify() {
     renderNav("identify");
     var s = settings(), prov = s.provider || "anthropic", key = (s.keys || {})[prov];
     $main.innerHTML = "<h1>&#128247; Identify a part</h1>" +
-      (key ? "" : '<div class="warn">Add an API key in <a href="#/settings">Settings</a> first.</div>') +
+      '<div class="result"><h3 style="margin-top:0">Snowflake Part ID app (recommended)</h3>' +
+      "<p>Sign in with Snowflake, take a photo, and Cortex AI matches it against this guide&#39;s parts catalog. No API key needed.</p>" +
+      '<p><a class="btn primary" href="' + SNOWFLAKE_APP_URL + '" target="_blank" rel="noopener">Open Part ID app</a></p></div>' +
+      '<h2>Or use your own AI key</h2>' +
+      (key ? "" : '<p class="muted">Needs an Anthropic, OpenAI, or Gemini key in <a href="#/settings">Settings</a>.</p>') +
       '<div class="drop"><p><label class="btn primary">Take or choose a photo<input type="file" id="file" accept="image/*" capture="environment" hidden></label></p>' +
       '<p class="muted">Use good light and fill the frame. Put a coin or tape measure in the shot for scale. Photograph any stamped numbers.</p>' +
       '<p><input type="text" id="hint" placeholder="Optional hint, e.g. &quot;found in the planer box&quot;"></p></div>' +

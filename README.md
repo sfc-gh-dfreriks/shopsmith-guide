@@ -11,9 +11,19 @@ A personal, interactive tutorial for a 2003 Shopsmith Mark V with the Planer and
 - **Parts catalog:** search parts by name, part number, or what they look like.
 - **Identify a part:** take a photo on your phone and get the matching catalog part, how to mount it, how to use it, and a link to the guide section.
 
-## Photo identification setup
+## Photo identification
 
-The site is static, so photo ID calls the AI provider straight from your browser with **your own API key**.
+### Option 1: Snowflake Part ID app (recommended)
+
+The site's **Identify** page links to a Streamlit in Snowflake app. You sign in with Snowflake, take a photo, and Cortex `AI_COMPLETE` (model `claude-sonnet-4-5`) matches it against the catalog in `SHOPSMITH_GUIDE.APP.PARTS`. Photos are stored on an encrypted stage. No API key is needed.
+
+- App code: `streamlit/streamlit_app.py`
+- Snowflake setup: `streamlit/setup.sql`
+- If you change `data/parts.json`, reload the `PARTS` table (see `setup.sql`).
+
+### Option 2: your own AI key
+
+The page can also call an AI provider straight from your browser with **your own API key**.
 
 1. Open **Settings** on the site.
 2. Pick Anthropic (Claude), OpenAI, or Google Gemini, then paste an API key.
