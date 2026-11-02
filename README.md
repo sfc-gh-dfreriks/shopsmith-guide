@@ -2,7 +2,7 @@
 
 A personal, interactive tutorial for a 2003 Shopsmith Mark V with the Planer and Belt Sander special-purpose tools.
 
-**Live site:** https://dfreriks-snow.github.io/shopsmith-guide/
+**Live site:** https://sfc-gh-dfreriks.github.io/shopsmith-guide/
 
 ## What's in it
 
